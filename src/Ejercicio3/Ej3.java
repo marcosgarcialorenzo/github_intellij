@@ -24,7 +24,7 @@ public class Ej3 {
 //        if (fichero.exists()) {
 //            try (BufferedReader testo = new BufferedReader(new FileReader(fichero))) {
 //                String linea;
-              Pattern patronPalabra = Pattern.compile("<h3>");
+//              Pattern patronPalabra = Pattern.compile("<h3>");
 //                while ((linea = testo.readLine()) != null) {
 //                    // Dividir la línea en palabras usando espacios en blanco y puntuación
 //                    for(int i=0; i<fichero.length; i++) {
